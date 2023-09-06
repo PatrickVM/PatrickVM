@@ -30,7 +30,7 @@
 
 **Description**: This is a project for my [church](https://www.thevoyage.church/). It's an app where the community can request our Vc Truck crew to serve at their event.
 
-**GitHub Repository**: private
+**GitHub Repository**: not public
 
 **Technologies Used**: Clerk | DrizzleORM | Tailwind | Nextjs
 
