@@ -6,7 +6,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=patrickvm&theme=material-palenight&background=0D1117&ring=00D8FF&fire=DD2727&sideNums=00D8FF&sideLabels=00D8FF&dates=424752&border=939393&border_color=939393)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickvm)
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=patrickvm) -->
 
 ![](https://komarev.com/ghpvc/?username=patrickvm&color=dc143c)
 
