@@ -13,7 +13,6 @@
 </div>
 
 <div align="left">
-## About Me
 
 **Name**: Patrick Murray
 
