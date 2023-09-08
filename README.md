@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # WELCOME! | ברוך הבא | ܟܠܘܬܐ
 
@@ -10,6 +10,9 @@
 
 ![](https://komarev.com/ghpvc/?username=patrickvm&color=dc143c)
 
+</div>
+
+<div align="left">
 ## About Me
 
 **Name**: Patrick Murray
