@@ -18,8 +18,6 @@
 
 **Location**: Florida Based
 
-**GitHub Username**: PatrickVm
-
 **Profession**: Software Developer by trade | Problem Solver by Passion
 
 **Interests**: Creating Content | Beach | Hiking | Mindmapping | Hanging w/ my Family
