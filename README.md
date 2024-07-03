@@ -41,7 +41,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" **alt="Github" width="40" height="40"/>
 </div>
 
-## Recent Projects
+<!-- ## Recent Projects
 
 ### VC Truck App
 
@@ -49,7 +49,7 @@
 
 **GitHub Repository**: not public
 
-**Technologies Used**: Clerk | DrizzleORM | Tailwind | Nextjs
+**Technologies Used**: Clerk | DrizzleORM | Tailwind | Nextjs -->
 
 ## Contact Me
 
