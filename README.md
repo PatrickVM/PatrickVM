@@ -59,6 +59,6 @@
 
 **X**: [@cyams34](https://twitter.com/Cyams34)
 
-**Website/Blog**: [Pieces](https://medium.com/@patrick-v-murray)
+**Website/Blog**: (https://www.patrickvmurray.com/)
 
 </div>
